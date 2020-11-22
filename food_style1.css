@@ -162,19 +162,22 @@ nav ul li a{
     padding: 15px 0;
 }
 .btn a{
-    width: 155px;
+    width: 25%;
     text-decoration: none;
     display: inline-block;
     margin: 0 20px;
-    padding: 10px 0;
+    /*padding: 10px 0;*/
+    padding-top: 0.8rem;
+    padding-bottom: 0.6rem;
     color: black;
     border: .5px solid black;
-    font-size: 14px;
     transition: 0.3s;
+    font-size: 0.875rem;
+    line-height: 0.9rem;
 }
 .btn a:hover{
-    background: #C7E3E7;
-    border: .5px solid #C7E3E7;
+    background: #F3DD92;
+    border: .5px solid #F3DD92;
 }
 /*----------------타이틀 끝----------------*/
 
@@ -198,7 +201,7 @@ nav ul li a{
     background: #eaeaea;
     width: 50%;
     height: 200px;
-    top: 1735px;
+    top: 1750px;
     left: 0px;
     z-index: -1;
 }
@@ -238,7 +241,7 @@ nav ul li a{
     background: #eaeaea;
     width: 50%;
     height: 200px;
-    top: 3535px;
+    top: 3510px;
     left: 0px;
     z-index: -1;
 }
@@ -268,7 +271,7 @@ nav ul li a{
     background: #eaeaea;
     width: 50%;
     height: 200px;
-    top: 5235px;
+    top: 5350px;
     left: 0px;
     z-index: -1;
 }
@@ -277,8 +280,8 @@ nav ul li a{
     
 }
 /*1-3번째 디자인 왼쪽 서브타이틀*/
-.fs50{font-size: 50px;}
-.fs30{font-size: 30px;}
+.fs50{font-size: 5rem; margin: 0 1.5rem; font-family: GmarketSansBold;}
+.fs30{font-size: 2.5rem; font-family: GmarketSansBold;}
 .subtitle{
     font-weight: bold;
     vertical-align: middle;
@@ -320,10 +323,10 @@ nav ul li a{
 }
 /*두번째 디자인 서브타이틀*/
 .subtitle2{
-    width: 40%;
+    width: 55%;
     background: #C7E3E7;
     display: inline-block;
-    margin: 30px;
+    margin: 3rem;
 }
 /*두번째 디자인 박스*/
 .box1{
@@ -401,8 +404,8 @@ nav ul li a{
     
 }
 /*다섯번째 디자인 왼쪽 서브타이틀*/
-.fs50{font-size: 50px;}
-.fs30{font-size: 30px;}
+.fs50{font-size: 5rem; margin: 0 1.5rem; font-family: GmarketSansBold;}
+.fs30{font-size: 2.5rem; font-family: GmarketSansBold;}
 .subtitle{
     font-weight: bold;
     vertical-align: middle;

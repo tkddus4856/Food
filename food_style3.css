@@ -327,10 +327,10 @@ nav ul li a{
 }
 /*두번째 디자인 서브타이틀*/
 .subtitle2{
-    width: 40%;
+    width: 55%;
     background: #F3DD92;
     display: inline-block;
-    margin: 30px;
+    margin: 3rem;
 }
 /*두번째 디자인 박스*/
 .box1{
